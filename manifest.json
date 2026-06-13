@@ -1,0 +1,18 @@
+{
+  "name": "Jurnal PKL Digital Zul Annas",
+  "short_name": "Jurnal PKL",
+  "description": "Aplikasi Jurnal PKL Harian Mahasiswa/Siswa TKJ Swadhipa",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme-color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3067/3067373.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
